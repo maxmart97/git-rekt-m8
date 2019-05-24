@@ -8,9 +8,9 @@ To run this program:
 ---
 
 To stop this program:
-- Visual Studio -> Click the stop button to end. 
-- Via the .exe file with fast computer -> Press `CTRL + ALT + DELETE, Task Manager, End Task` to end trolling. 
-- Via the .exe file with slow computer -> Restart your computer manually.
+- Via Visual Studio -> Click the stop button to end. 
+- Via the .exe file on a fast computer -> Press `CTRL + ALT + DELETE, Task Manager, End Task` to end trolling. 
+- Via the .exe file on a slow computer -> Restart your computer manually.
 
 ---
 
