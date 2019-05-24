@@ -1,7 +1,3 @@
-:trollface:
-
----
-
 To run this program:
 - Run in Visual Studio OR run the `git rekt m8/bin/Debug/git rekt m8.exe` file.
 
@@ -11,6 +7,6 @@ Clicking the button generates random colored forms at random locations on the us
 
 ---
 
-HAPPY TROLLING!
+HAPPY TROLLING! :trollface:
 
 
